@@ -1,0 +1,10 @@
+﻿1 . For Performing the given Task I have used Jupyter Notebook instead of Pycharm.
+
+
+2. For best view use Jupyter Book 
+
+
+3. For Running the code Provide a proper path for Reading Particular file 
+
+
+4. Please read the comments provided in the file for better Understanding
