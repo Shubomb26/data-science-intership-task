@@ -1,4 +1,4 @@
-# data-science-intership-task
+# data-science-sentimental-analysis-task
 Data Extraction and Text Analysis
 Blackcoffer Consulting
 
